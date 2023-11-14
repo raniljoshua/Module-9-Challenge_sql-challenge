@@ -5,7 +5,7 @@ EmployeeSQL problem
 Used PostgreSQL to perform data modeling, data engineering, and data analysis; imported departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, and titles.csv; and performed the following analysis:
 
 * Data Modeling:
-  * Created ERD of tables using https://dbdiagram.io/d
+  * Created ERD of tables using https://app.quickdatabasediagrams.com/#/
 * Data Engineering:
   * Created Table Schema for each of the six CSV files (specifying data types, primary keys, foreign keys, and other contraints)
   * Imported each CSV file into the corresponding SQL table
